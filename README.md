@@ -21,10 +21,8 @@
 
 
 ### 1. 编码
-<img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="50%">
-
-![image](https://img2.doubanio.com/view/subject/s/public/s27331702.jpg)
-作者: [美] Charles Petzold
+<img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="20%">
+<br/>作者: [美] Charles Petzold
 <br/>出版社: 电子工业出版社
 <br/>出版年份：2020
 <br/>出品方: 博文视点
