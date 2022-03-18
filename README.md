@@ -19,8 +19,8 @@
 
 ## 计算机科学 Computer Science
 
-![](https://img2.doubanio.com/view/subject/s/public/s27331702.jpg)
-### 编码
+![image](https://img2.doubanio.com/view/subject/s/public/s27331702.jpg)
+#### 编码
 作者: [美] Charles Petzold
 <br/>出版社: 电子工业出版社
 <br/>出版年份：2020
