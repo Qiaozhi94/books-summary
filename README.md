@@ -46,8 +46,7 @@
 
 ### 1. [南明史](https://book.douban.com/subject/6533042/) | 顾诚 | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%20Historical%20Record/epub/%E5%8D%97%E6%98%8E%E5%8F%B2.epub) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 
->胡风南渡尽草偃，大义捐嫌王出滇。
-
+>胡风南渡尽草偃，大义捐嫌王出滇。<br/>
 >一身转战千里路，只手曾擎半壁天。
 
 >诸葛无命延汉祚，武穆何甘止朱仙。
