@@ -31,11 +31,31 @@
 
 ## 金融经济 Monetary Economy
 
+### 1. [赤字迷思](https://book.douban.com/subject/35627965/) | Stephanie Kelton | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E9%87%91%E8%9E%8D%E7%BB%8F%E6%B5%8E%20Monetary%20Economy/epub/%E8%B5%A4%E5%AD%97%E8%BF%B7%E6%80%9D.epub) | 无评分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+>无关对错，多一种对国家财政和货币政策的看法也是极不错的
 
 ## 意识形态 Ideology
 
+### 1. [共产主义ABC](https://book.douban.com/subject/2304054/) | 尼古拉·伊万诺维奇·布哈林 | [PDF](https://github.com/Qiaozhi94/books-summary/blob/main/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%20Ideology/pdf/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89ABC.pdf) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+>列宁共产主义思想入门看布哈林的这本ABC足够了
+
 
 ## 历史记录 Historical Record
+
+### 1. [南明史](https://book.douban.com/subject/6533042/) | 顾诚 | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%20Historical%20Record/epub/%E5%8D%97%E6%98%8E%E5%8F%B2.epub) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+>胡风南渡尽草偃，大义捐嫌王出滇。
+>一身转战千里路，只手曾擎半壁天。
+>诸葛无命延汉祚，武穆何甘止朱仙。
+>板荡膻腥忠贞显，江山代代颂英贤。
+>凛凛孤忠志独坚，手持一木欲撑天。
+>磨盘战地人犹识，磷火常同日色鲜。
+>老草坡前草树香，磨盘诸将墓堂堂。
+>残碑读罢呼雄鬼，生死都从李晋王。
+> - 《读残明遗事漫记》 刘彬
+
 
 ## 经典文学 Classic Literature
 
