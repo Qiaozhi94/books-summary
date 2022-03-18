@@ -39,7 +39,7 @@
 
 ### 1. [共产主义ABC](https://book.douban.com/subject/2304054/) | 尼古拉·伊万诺维奇·布哈林 | [PDF](https://github.com/Qiaozhi94/books-summary/blob/main/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%20Ideology/pdf/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89ABC.pdf) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 
->列宁共产主义思想入门看布哈林的这本ABC足够了
+>列宁共产主义思想入门看布哈林的这本ABC就够了
 
 
 ## 历史记录 Historical Record
