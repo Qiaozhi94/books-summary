@@ -3,7 +3,7 @@
 
 
 # 目录
-* [计算机科学 Computer Science](https://github.com/Qiaozhi94/books-summary/##计算机科学 Computer Science)
+* [计算机科学 Computer Science]()
 * [金融经济 Monetary Economy]()
 * [意识形态 Ideology]()
 * [历史记录 Historical Record]()
@@ -12,4 +12,4 @@
 * [科幻文学 Fiction]()
 
 
-## 计算机科学
+## 计算机科学 Computer Science
