@@ -23,6 +23,7 @@
 <img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="30%">
 
 :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
 豆瓣评分：[9.3分 | 4466人评价](https://book.douban.com/subject/4822685/)
 
 
