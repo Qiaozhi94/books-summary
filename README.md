@@ -23,7 +23,7 @@
 
 ## 历史记录 Historical Record
 
-## 经典文学 Classic Literature经典文学 Classic Literature
+## 经典文学 Classic Literature
 
 
 ## 人物传记 Biography
