@@ -21,7 +21,7 @@
 
 ### 1. 编码
 <img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="20%">
-<br/>推荐指数：**5**
+<br/>推荐指数：5
 <br/>作者: [美] Charles Petzold
 <br/>出版社: 电子工业出版社
 <br/>出版年份：2020
