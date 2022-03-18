@@ -1,6 +1,6 @@
 # books-summary
 这是我个人看书的书目总结，里面放着我阅读过的几乎所有书籍以及它们的电子版，以是记录。
-
+书籍电子版均来源于互联网，如有侵权请与我联系。
 注：
 
 
@@ -20,7 +20,7 @@
 ## 计算机科学 Computer Science
 
 
-### 1. 编码
+### 1. 编码 
 <img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="20%">
 <br/>作者: [美] Charles Petzold
 <br/>出版社: 电子工业出版社
@@ -29,10 +29,11 @@
 <br/>副标题: 隐匿在计算机软硬件背后的语言
 <br/>原作名: Code: The Hidden Language of Computer Hardware and Software
 <br/>豆瓣评分：9.3分（4466人评价）
+<br/>电子版：[pdf](https://github.com/Qiaozhi94/books-summary/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%20Computer%20Science/pdf/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf) | epub
 <details>
 <summary>点击查看我的评价</summary>
 
-**<summary>标签与正文间一定要空一行！！！**
+**<summary>从二进制数字到最简单的非门再到操作系统，这本书抓住了编程入门过程中的若干复杂难题并加以仔细诠释，十分适合新手学习入门**
 </details>
 
 
