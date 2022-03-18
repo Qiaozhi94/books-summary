@@ -21,15 +21,17 @@
 
 ### 编码
 作者: [美] Charles Petzold
-出版社: 电子工业出版社
-出版年份：2020
-出品方: 博文视点
-副标题: 隐匿在计算机软硬件背后的语言
-原作名: Code: The Hidden Language of Computer Hardware and Software
-豆瓣评分：9.3分（4466人评价）
-{% folding 查看我的评价 %}
-test
-{% endfolding %}
+<br/>出版社: 电子工业出版社
+<br/>出版年份：2020
+<br/>出品方: 博文视点
+<br/>副标题: 隐匿在计算机软硬件背后的语言
+<br/>原作名: Code: The Hidden Language of Computer Hardware and Software
+<br/>豆瓣评分：9.3分（4466人评价）
+<details>
+<summary>点击查看我的评价</summary>
+
+**<summary>标签与正文间一定要空一行！！！**
+</details>
 
 
 
