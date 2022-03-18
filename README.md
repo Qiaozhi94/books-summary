@@ -1,5 +1,10 @@
 # books-summary
-我个人看书的书目总结
+这是我个人看书的书目总结，里面放着我阅读过的几乎所有书籍以及它们的电子版，以是记录。
+
+注：
+
+
+
 
 
 # 目录
@@ -13,6 +18,20 @@
 
 
 ## 计算机科学 Computer Science
+
+### 编码
+作者: [美] Charles Petzold
+出版社: 电子工业出版社
+出版年份：2020
+出品方: 博文视点
+副标题: 隐匿在计算机软硬件背后的语言
+原作名: Code: The Hidden Language of Computer Hardware and Software
+豆瓣评分：9.3分（4466人评价）
+{% folding 查看我的评价 %}
+test
+{% endfolding %}
+
+
 
 
 ## 金融经济 Monetary Economy
