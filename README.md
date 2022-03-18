@@ -78,7 +78,7 @@
 
 ### 6. 永久档案 | Edward Joseph Snowden | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E4%BA%BA%E7%89%A9%E4%BC%A0%E8%AE%B0%20Biography/epub/%E6%B0%B8%E4%B9%85%E6%A1%A3%E6%A1%88.epub) | 无条目 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 
->我最喜欢的三个美国人之一，另两个是死对头：约翰·亚当斯与托马斯·杰斐逊
+>我最喜欢的三个美国人之一，另两个是一对死对头：约翰·亚当斯与托马斯·杰斐逊
 
 
 ---
