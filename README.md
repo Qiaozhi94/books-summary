@@ -47,13 +47,21 @@
 ### 1. [南明史](https://book.douban.com/subject/6533042/) | 顾诚 | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%20Historical%20Record/epub/%E5%8D%97%E6%98%8E%E5%8F%B2.epub) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
 
 >胡风南渡尽草偃，大义捐嫌王出滇。
+
 >一身转战千里路，只手曾擎半壁天。
+
 >诸葛无命延汉祚，武穆何甘止朱仙。
+
 >板荡膻腥忠贞显，江山代代颂英贤。
+
 >凛凛孤忠志独坚，手持一木欲撑天。
+
 >磨盘战地人犹识，磷火常同日色鲜。
+
 >老草坡前草树香，磨盘诸将墓堂堂。
+
 >残碑读罢呼雄鬼，生死都从李晋王。
+
 > - 《读残明遗事漫记》 刘彬
 
 
