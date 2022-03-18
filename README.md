@@ -19,8 +19,7 @@
 
 ## 计算机科学 Computer Science
 
-
-### 1. 编码 
+### 1. 编码 :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button:
 <img src="https://img2.doubanio.com/view/subject/s/public/s27331702.jpg" width="20%">
 <br/>作者: [美] Charles Petzold
 <br/>出版社: 电子工业出版社
@@ -28,7 +27,8 @@
 <br/>出品方: 博文视点
 <br/>副标题: 隐匿在计算机软硬件背后的语言
 <br/>原作名: Code: The Hidden Language of Computer Hardware and Software
-<br/>豆瓣评分：9.3分（4466人评价）
+
+豆瓣评分：[9.3分 | 4466人评价](https://book.douban.com/subject/4822685/)
 
 电子版：[pdf](https://github.com/Qiaozhi94/books-summary/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%20Computer%20Science/pdf/%E7%BC%96%E7%A0%81%20%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80.pdf/) | epub
 
