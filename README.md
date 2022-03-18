@@ -59,9 +59,21 @@
 
 ## 经典文学 Classic Literature
 
+### 1. [共产主义ABC](https://book.douban.com/subject/2304054/) | 尼古拉·伊万诺维奇·布哈林 | [PDF](https://github.com/Qiaozhi94/books-summary/blob/main/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%20Ideology/pdf/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89ABC.pdf) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+>列宁共产主义思想入门看布哈林的这本ABC就够了
+
 
 ## 人物传记 Biography
+
+### 1. [永久档案](https://book.douban.com/subject/2304054/) | Edward Joseph Snowden | [PDF](https://github.com/Qiaozhi94/books-summary/blob/main/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81%20Ideology/pdf/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89ABC.pdf) | 9.0分 | :thumbsup::thumbsup::thumbsup::thumbsup::thumbsup::thumbsup:
+
+>我最喜欢的三个美国人之一，另两个是死对头：约翰·亚当斯与托马斯·杰斐逊
 
 
 
 ## 科幻文学 Fiction
+
+### 1. [2001：太空漫游](https://book.douban.com/subject/30471298/) | Arthur Charles Clarke | [EPUB](https://github.com/Qiaozhi94/books-summary/blob/main/%E7%A7%91%E5%B9%BB%E6%96%87%E5%AD%A6%20Fiction/epub/2001%EF%BC%9A%E5%A4%AA%E7%A9%BA%E6%BC%AB%E6%B8%B8.epub) | 9.2分 | :thumbsup::thumbsup::thumbsup::thumbsup:
+
+>是电影成就了原著，还是原著成就了电影，这是一个问题
